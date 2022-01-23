@@ -26,16 +26,19 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+     - Abre
+     - hello-world
+     - students
+     - JoshAnness.github.io
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: joshanness
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -47,12 +50,38 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: API
+    web_url: https://github.com/topics/api
+    image_url: https://miro.medium.com/max/1000/0*sDy0bwrO28JsvJLS.jpg
 
-  - name: Web design
+  - name: Bitcoin
+    web_url: https://github.com/topics/bitcoin
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Cryptocurrency
+    web_url: https://github.com/topics/cryptocurrency
+    image_url: https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/11/crypto-1637913891.jpg
+  
+  - name: Data Visualization
+    web_url: https://github.com/topics/data-visualization
+    image_url: https://www.datameer.com/wp-content/uploads/2019/12/Data-Vizualisation-924x512.png
+  
+  - name: Ethereum
+    web_url: https://github.com/topics/ethereum
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png
+
+  - name: Java
+    web_url: https://github.com/topics/java
+    image_url: https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png
+  
+  - name: Machine Learning
+    web_url: https://github.com/topics/machine-learning
+    image_url: https://www.ecmwf.int/sites/default/files/Ai-image-deep-net-v3-690px.jpg
+
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+
+  - name: Cybersecurity
+    web_url: https://github.com/topics/security
+    image_url: https://policyoptions.irpp.org/wp-content/uploads/sites/2/2021/10/Facebook-Canadas-fledgling-cybersecurity-centre-must-do-more-collaborating-and-educating.jpg
