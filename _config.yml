@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -39,6 +39,8 @@ social_media:
   # instagram: your_username
   # keybase: your_username
   linkedin: joshanness
+  email: annessja@mail.uc.edu
+  #resume: 
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
